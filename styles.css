@@ -1,0 +1,44 @@
+body {
+    background-color: bisque;
+}
+#samosa-title {
+    font-family: "Georgia", sans-serif;
+    color: salmon;
+    font-size: 48px;
+
+}
+
+img {
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: green;
+}
+
+#samosa-description {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: cadetblue;
+
+}
+
+ul {
+    font-size: large;
+    color: navy;
+
+}
+
+ol {
+    font-size: large;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
